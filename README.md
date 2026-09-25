@@ -25,3 +25,7 @@ colisão e pontuação.
 
 O pássaro é desenhado com um emoji da fonte do sistema. Em computadores
 sem uma fonte de emoji compatível, ele pode aparecer de outra forma.
+
+## Aprenda Python do zero
+
+Quer aprender Python do zero? Conheça o [curso completo de Python](https://academify.com.br/).
