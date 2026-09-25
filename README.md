@@ -28,4 +28,4 @@ sem uma fonte de emoji compatível, ele pode aparecer de outra forma.
 
 ## Aprenda Python do zero
 
-Quer aprender Python do zero? Conheça o [curso completo de Python](https://academify.com.br/).
+Quer aprender Python do zero? Conheça o [curso completo de Python](https://academify.com.br/#github-flappy-bird).
